@@ -12,7 +12,7 @@ A collection of Python scripts for automatically detecting and removing borders/
 ## Requirements
 
 ```bash
-pip install - r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Scripts
